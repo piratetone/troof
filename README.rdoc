@@ -2,7 +2,9 @@
 
 Is it a troof or a goof? Vote to find out.
 
-* Rails
+Added
+* Google Fonts - https://www.google.com/fonts
+* Animate CSS - https://daneden.github.io/animate.css/
 
 
 Please feel free to use a different markup language if you do not plan to run
